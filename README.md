@@ -10,4 +10,4 @@ INSTITUTO TECNOLOGICO SUPERIOR DE LA SIERRA NEGRA DE AJALPAN
 -Ricardo
 -Marcela
 
-Estamos en la rama llamada "Linea1"
+Estamos en la rama llamada "Linea1".
